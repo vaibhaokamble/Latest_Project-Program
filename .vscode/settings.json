@@ -1,4 +1,0 @@
-{
-    "java.compile.nullAnalysis.mode": "automatic",
-    "livePreview.defaultPreviewPath": "/AT_JSP_Application/src/main/webapp/demo.jsp"
-}
