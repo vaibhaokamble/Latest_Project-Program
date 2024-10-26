@@ -1,0 +1,39 @@
+@charset "ISO-8859-1";
+
+body {
+	background-color: #f0f8ff; /* Light blue background */
+}
+
+.registration-form {
+	background-color: #ffffff; /* White background */
+	padding: 30px;
+	border-radius: 8px;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+	margin-top: 50px;
+}
+
+.registration-form h2 {
+	text-align: center;
+	color: #4CAF50; /* Green text for heading */
+	margin-bottom: 20px;
+}
+
+.form-group label {
+	color: #555; /* Darker gray for labels */
+}
+
+.btn-custom {
+	background-color: #28a745; /* Custom green color */
+	color: #fff; /* White text */
+	border-radius: 20px; /* Rounded button */
+	width: 100%;
+}
+
+.btn-custom:hover {
+	background-color: #218838; /* Darker green on hover */
+}
+
+.form-control:focus {
+	border-color: #17a2b8; /* Light blue border on focus */
+	box-shadow: 0 0 5px #17a2b8;
+}
